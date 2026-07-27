@@ -56,7 +56,7 @@ A 6-month arc, layered from fundamentals to independent work. Each phase links t
 ```mermaid
 flowchart LR
     A["Phase 1 · Foundations<br/>(≈6 wks)"] --> B["Phase 2 · Applied Projects<br/>(≈8 wks)"]
-    B --> C["Phase 3 · Research Month<br/>(≈4 wks) ⭐"]
+    B --> C["Phase 3 · Research Month<br/>(≈4 wks)"]
     C --> D["Phase 4 · Industry Handoff<br/>(≈6 wks)"]
 ```
 
@@ -64,7 +64,7 @@ flowchart LR
 |------|-------|--------|
 | **1 · Foundations** | ML fundamentals, tooling, the workflow, evaluation done right | [01_foundations.md](./curriculum/01_foundations.md) |
 | **2 · Applied Projects** | Real end-to-end projects — data engineering to a working model | [02_applied_projects.md](./curriculum/02_applied_projects.md) |
-| **3 · Research Month ⭐** | Read, reproduce, and extend a paper. The differentiator. | [03_research_month.md](./curriculum/03_research_month.md) |
+| **3 · Research Month** | Read, reproduce, and extend a paper. The differentiator. | [03_research_month.md](./curriculum/03_research_month.md) |
 | **4 · Industry Handoff** | Deployment, MLOps, and shipping to a real standard | [04_industry_handoff.md](./curriculum/04_industry_handoff.md) |
 
 ---
