@@ -1,8 +1,8 @@
-# 📏 Evaluation Rubric
+# Evaluation Rubric
 
 How interns were graded. Assessment was against explicit criteria, not impressions — the same dimensions that matter in both a research lab and an engineering team.
 
-> ⚙️ *Adjust weights and wording to match how you actually assessed. The value here is that grading was structured and transparent.*
+> *Adjust weights and wording to match how you actually assessed. The value here is that grading was structured and transparent.*
 
 ## Dimensions
 
