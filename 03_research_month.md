@@ -1,8 +1,8 @@
-# Phase 3 · Research Month ⭐ (≈4 weeks)
+# Phase 3 · Research Month (≈4 weeks)
 
 **This is the differentiator.** Most internships and bootcamps never touch real research. This month gave interns a genuine taste of it — the single biggest reason the program bridges academia and industry.
 
-> ⭐ *This is the part of the program to write up most fully — it's what makes the repo distinctive. Fill in the actual papers/topics interns worked on.*
+> *This is the part of the program to write up most fully — it's what makes the repo distinctive. Fill in the actual papers/topics interns worked on.*
 
 ## The idea
 Applied skill without research literacy caps out fast. One focused month teaches interns to **read the frontier, reproduce it, and question it** — habits that make them better engineers *and* open the door to graduate research.
