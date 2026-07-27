@@ -2,7 +2,7 @@
 
 # 🎓 The Academia-to-Industry AI/ML Curriculum
 
-**The real, structured 6-month AI/ML internship program I designed and ran at TABSAP — with a dedicated research month that most bootcamps skip.**
+**The structured 6-month AI/ML internship program I designed and ran at TABSAP — with a dedicated research month that most bootcamps skip.**
 
 *This is not advice. It's the curriculum, the evaluation rubric, and the outcomes from a program I built, ran, and validated with real interns.*
 
@@ -17,7 +17,7 @@
 
 ## Why this exists
 
-There is a real gap between how ML is taught in academia and how it's used in industry. Academia builds rigor and the ability to read papers and push the frontier — but rarely teaches you to ship. Industry builds reliability and scale — but rarely gives you time to understand *why* a method works or to read the paper it came from.
+There is a real gap between how ML is taught in academia and how it's used in industry. Academia builds rigor and the ability to read papers and push the frontier, but rarely teaches you to ship. Industry builds reliability and scale, but rarely gives you time to understand *why* a method works or to read the paper it came from.
 
 Most bootcamps and internships train only for the industry side. **This program was built to close the gap in both directions** — to produce engineers who can read a paper *and* deploy a service, researchers who can productionize their own ideas.
 
@@ -29,10 +29,10 @@ I ran it as **AI Engineer & Trainer at TABSAP (2024–2026)**. This repository i
 
 > *Real results from an active program — the reason this repo is evidence, not opinion.*
 
-- **9 interns mentored** through the program (a mixed cohort).
+- **9 interns mentored** through the program (M/F).
 - **3 have completed** the full 6-month structure; **the rest are currently in progress.**
 - Completed work was assessed against the published [evaluation rubric](./evaluation/rubric.md).
-- **Publicly recognized** in a student testimonial → _[link to testimonial](#)_ ⬅️ *(drop your testimonial URL here)*
+- **Publicly recognized** in a student testimonial → _[link to testimonial](#)_ ⬅️ *([drop your testimonial URL here](https://www.linkedin.com/feed/update/urn:li:activity:7484713579577872384/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFYOchoBi3tx1Yq9hvzJOQ16zm7Koq59VHI))*
 - A **dedicated research month** — the structural differentiator that gives interns a taste of genuine research, not just applied tutorials.
 
 *(This is a living program — bump the completion count as more interns finish.)*
@@ -69,7 +69,7 @@ flowchart LR
 
 ---
 
-## 📏 How interns were evaluated
+## How interns were evaluated
 
 Grading wasn't vibes. Interns were assessed against an explicit [**evaluation rubric**](./evaluation/rubric.md) covering technical depth, reproducibility, communication, and independence — the same dimensions that matter in both a lab and a team. The rubric is public here as evidence of how "Excellent" was actually earned.
 
