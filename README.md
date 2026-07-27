@@ -32,7 +32,7 @@ I ran it as **AI Engineer & Trainer at TABSAP (2024–2026)**. This repository i
 - **9 interns mentored** through the program (M/F).
 - **3 have completed** the full 6-month structure; **the rest are currently in progress.**
 - Completed work was assessed against the published [evaluation rubric](./evaluation/rubric.md).
-- **Publicly recognized** in a student testimonial → _[link to testimonial](#)_ ⬅️ *([https://www.linkedin.com/feed/update/urn:li:activity:7484713579577872384/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFYOchoBi3tx1Yq9hvzJOQ16zm7Koq59VHI])*
+- **Publicly recognized** in a student testimonial → [**Go to testimonial**](https://www.linkedin.com/feed/update/urn:li:activity:7484713579577872384/)
 - A **dedicated research month** — the structural differentiator that gives interns a taste of genuine research, not just applied tutorials.
 
 *(This is a living program — bump the completion count as more interns finish.)*
