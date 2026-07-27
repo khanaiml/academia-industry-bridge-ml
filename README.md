@@ -2,7 +2,7 @@
 
 # 🎓 The Academia-to-Industry AI/ML Curriculum
 
-**Structured 6-month AI/ML internship program I designed and ran at TABSAP — with a dedicated research month that most bootcamps skip.**
+**Structured 6-month AI/ML internship program I designed and ran at TABSAP, with a dedicated research month that most bootcamps skip.**
 
 *This is not advice. It's the curriculum, the evaluation rubric, and the outcomes from a program I built, ran, and validated with real interns.*
 
